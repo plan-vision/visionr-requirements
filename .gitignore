@@ -1,0 +1,13 @@
+/.visionr/
+/classes/
+/installations/
+/target/
+/bin/
+/work/
+/node_modules/
+/apps/
+/*.log/
+/.classpath/
+/.project/
+/.settings/
+package-lock.json
