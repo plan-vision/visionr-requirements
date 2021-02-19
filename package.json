@@ -5,6 +5,5 @@
   "scripts": {},
   "author": "Plan-Vision",
   "license": "ISC",
-  "description": "OS dependent binaries required to run visionr-server",
-  "dependencies": {}
+  "description": "OS dependent binaries required to run visionr-server"
 }
